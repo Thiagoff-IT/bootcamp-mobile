@@ -1,1 +1,1 @@
-# bootcamp-moble
+# bootcamp-mobile
