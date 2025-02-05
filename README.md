@@ -1,6 +1,6 @@
 # bootcamp-mobile
 
-https://www.figma.com/slides/LtuDc2j7M3U5m050znElZg/Untitled?node-id=1-1383&t=B7HtIXQ85CG2X9kj-1
+[Slides](https://www.figma.com/slides/LtuDc2j7M3U5m050znElZg/Untitled?node-id=1-1383&t=B7HtIXQ85CG2X9kj-1)
 
 ## cronograma
 ### Semana 1:
